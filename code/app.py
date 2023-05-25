@@ -101,3 +101,7 @@ def incorrect(subject, theme, answer):
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+@app.route('/prueba')
+def prueba():
+    return render_template('prueba.html', subjects=subjects)
