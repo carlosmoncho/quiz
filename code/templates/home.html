@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Quiz</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+    <form method="POST" class="container mt-5">
+        <div class="card">
+            <div class="card-body">
+                <div class="form-group">
+                    <label for="theme">Select a theme:</label>
+                    <select name="theme" id="theme" class="form-control">
+                        {% for subject, themes in subjects.items() %}
+                        {% for theme in themes %}
+                        <option value="{{ subject }}/{{ theme }}">{{ subject }} - {{ theme }}</option>
+                        {% endfor %}
+                        {% endfor %}
+                    </select>
+                </div>
+                <button type="submit" class="btn btn-primary">Start Quiz</button>
+            </div>
+        </div>
+    </form>
+</body>
+
+</html>

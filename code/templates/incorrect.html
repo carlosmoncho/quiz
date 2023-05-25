@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Incorrect</title>
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <div class="alert alert-danger" role="alert">
+      <h2>Incorrect!</h2>
+    </div>
+    <p class="lead"><b> pregunta era:</b> "{{ question_text }}"</p>
+    <p class="lead"><b>La respuesta correcta es:</b> "{{ correct_option }}"</p>
+    <a class="btn btn-primary btn-lg" href="{{ url_for('quiz', subject=subject, theme=theme) }}" role="button">Next Question</a>
+  </div>
+</body>
+</html>
