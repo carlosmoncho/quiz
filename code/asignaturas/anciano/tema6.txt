@@ -43,9 +43,6 @@ d) Presión y humedad.
 ¿Cuál de los siguientes factores intrínsecos puede contribuir a la formación de úlceras por presión?
 a) Aumento de la movilidad espontánea del paciente.
 b) Mejora de las funciones respiratorias y circulatorias.
-c) Mejora del estado de conciencia8. ¿Cuál de los siguientes factores intrínsecos puede contribuir a la formación de úlceras por presión?
-a) Aumento de la movilidad espontánea del paciente.
-b) Mejora de las funciones respiratorias y circulatorias.
 c) Mejora del estado de conciencia.
 d) Pérdida sensitiva.*
 
@@ -95,11 +92,7 @@ d) Las uñas se vuelven más suaves y delgadas.
 a) Dermatitis de contacto.
 b) Neoplasias.
 c) Xerosis.*
-d) Melanoma16. ¿Cuál es la causa más común de prurito en la población mayor de 60 años?
-a) Dermatitis de contacto.
-b) Neoplasias.
-c) Xerosis.*
-d) Melanoma.
+d) melanoma
 
 ¿Qué es la púrpura senil?
 a) Una condición común y benigna en adultos mayores que afecta principalmente la superficie extensora de las extremidades.*
@@ -124,3 +117,123 @@ a) Aumento de la movilidad espontánea del paciente.
 b) Mejora de las funciones respiratorias y circulatorias.
 c) Mejora del estado de conciencia.
 d) Pérdida sensitiva.*
+
+¿Cuál de las siguientes no es una consecuencia del envejecimiento de la piel?
+a) Mayor riesgo de inflamación.
+b) Mayor riesgo de infecciones.
+c) Mayor capacidad de cicatrización.*
+d) Mayor riesgo de desarrollar UPP.
+
+¿Qué factor demostró Kosiak en 1990 que es inversamente proporcional para producir una lesión?
+a) Tiempo y temperatura.*
+b) Tiempo y presión.
+c) Presión y temperatura.
+d) Presión y humedad.
+
+¿Cuál de los siguientes no es un factor intrínseco que puede contribuir a la formación de úlceras por presión?
+a) Aumento de la movilidad espontánea del paciente.*
+b) Pérdida sensitiva.
+c) Alteración de la movilidad espontánea del paciente.
+d) Alteraciones respiratorias y circulatorias.
+
+¿Cuál de las siguientes afirmaciones sobre el envejecimiento cutáneo es incorrecta?
+a) Adelgazamiento de la superficie cutánea.
+b) Aumento de la elasticidad y flexibilidad.*
+c) La dermis pierde un 20% de su espesor: menor resistencia a pequeños traumas.
+d) Disminución de la velocidad de replicación celular.
+
+¿Cuál de las siguientes acciones puede empeorar la enfermería en su día a día?
+a) Uso de productos irritantes sobre la piel.*
+b) Uso adecuado del material.
+c) Cambios posturales adecuados.
+d) Uso adecuado del material.
+
+¿Qué características debe cumplir toda escala de valoración?
+a) Baja sensibilidad.*
+b) Alta especificidad.
+c) Buen valor predictivo.
+d) Que esté validada.
+
+¿Cuál de las siguientes afirmaciones sobre la escala de Norton modificada es incorrecta?
+a) Mide la nutrición, estado de la piel, estado mental, movilidad, actividad e incontinencia.
+b) Mide la desnutrición, estado de la piel, estado mental, inmovilidad, inactividad e incontinencia.*
+c) Mide la nutrición, estado de la piel, estado mental, inmovilidad, inactividad e incontinencia.
+d) Mide la desnutrición, estado de la piel, estado mental, movilidad, actividad e incontinencia.
+
+¿Cuál de las siguientes afirmaciones sobre los cuidados de la piel es incorrecta?
+a) No se debe usar crema hidratante.*
+b) Se puede usar aceite de rosa mosqueta.
+c) Se puede usar crema barrera.
+d) Se puede usar vaselina/parafina.
+
+¿Cuál de las siguientes afirmaciones sobre la piel senil es incorrecta?
+a) Aplanamiento de la unión dermoepidérmica favoreciendo la formación de ampollas.
+b) Aumento de melanocitos, reduciendo el riesgo de melanoma.*
+c) Reducción de las células de Langerhans aumenta el riesgo de dermatitis de contacto y neoplasias.
+d) Disminución de la vascularización, tendencia a la hipotermia y la palidez.
+
+¿Cuál de las siguientes no es una función de la dermis e hipodermis en la piel senil?
+a) Aumento del espesor, incremento del aislamiento térmico.*
+b) Disminución de la vascularización, tendencia a la hipotermia y la palidez.
+c) Alteración de las fibras de elastina y colágena, aparición de arrugas.
+d) Alteraciones en la termorregulación.
+
+¿Cuál de las siguientes afirmaciones sobre las uñas en la piel senil es incorrecta?
+a) Las uñas crecen más rápidamente y se vuelven más vibrantes y fuertes.*
+b) Las uñas crecen más lentamente y se vuelven pálidas y frágiles.
+c) Las uñas se vuelven más oscuras y opacas.
+d) Las uñas se vuelven más suaves y delgadas.
+
+¿Cuál no es una causa común de prurito en la población mayor de 60 años?
+a) Dermatitis de contacto.
+b) Neoplasias.
+c) Xerosis.
+d) Melanoma.*
+
+¿Cuál de las siguientes no es una característica de la púrpura senil?
+a) Una condición común y benigna en adultos mayores que afecta principalmente la superficie extensora de las extremidades.
+b) Una condición rara y maligna en adultos mayores que afecta principalmente la superficie flexora de las extremidades.*
+c) Una condición común y maligna en adultos mayores que afecta principalmente la superficie extensora de las extremidades.
+d) Una condición rara y benigna en adultos mayores que afecta principalmente la superficie flexora de las extremidades.
+
+¿Cuál de las siguientes afirmaciones sobre las úlceras por presión es incorrecta?
+a) Menor riesgo de inflamación.*
+b) Mayor riesgo de infecciones.
+c) Mayor riesgo de desarrollar UPP.
+d) Menor capacidad de cicatrización.
+
+¿Qué factor demostró Kosiak en 1990 que no es inversamente proporcional para producir una lesión?
+a) Tiempo y temperatura.
+b) Tiempo y presión.
+c) Presión y temperatura.*
+d) Presión y humedad.
+
+¿Cuál de los siguientes no es un factor intrínseco que puede contribuir a la formación de úlceras por presión?
+a) Aumento de la movilidad espontánea del paciente.*
+b) Pérdida sensitiva.
+c) Alteración de la movilidad espontánea del paciente.
+d) Alteraciones respiratorias y circulatorias.
+
+¿Cuál de las siguientes afirmaciones sobre el envejecimiento cutáneo es incorrecta?
+a) Adelgazamiento de la superficie cutánea.
+b) Aumento de la elasticidad y flexibilidad.*
+c) La dermis pierde un 20% de su espesor: menor resistencia a pequeños traumas.
+d) Disminución de la velocidad de replicación celular.
+
+¿Cuál de las siguientes acciones puede mejorar la enfermería en su día a día?
+a) Uso de productos irritantes sobre la piel.*
+b) Uso adecuado del material.
+c) Cambios posturales adecuados.
+d) Uso adecuado del material.
+
+¿Qué características debe cumplir toda escala de valoración?
+a) Baja sensibilidad.*
+b) Alta especificidad.
+c) Buen valor predictivo.
+d) Que esté validada.
+
+¿Cuál de las siguientes afirmaciones sobre la escala de Norton modificada es incorrecta?
+a) Mide la nutrición, estado de la piel, estado mental, movilidad, actividad e incontinencia.
+b) Mide la desnutrición, estado de la piel, estado mental, inmovilidad, inactividad e incontinencia.*
+c) Mide la nutrición, estado de la piel, estado mental, inmovilidad, inactividad e incontinencia.
+d) Mide la desnutrición, estado de la piel, estado mental, movilidad, actividad e incontinencia.

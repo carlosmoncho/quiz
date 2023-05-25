@@ -1,0 +1,239 @@
+¿Cuál es un problema común en la farmacología en el anciano?
+a) Falta de ensayos clínicos en ancianos
+b) Exceso de información
+c) Falta de medicamentos
+d) Ninguna de las anteriores *
+
+¿Cuál es un problema relacionado con la farmacocinética en los ancianos?
+a) Absorción
+b) Distribución
+c) Metabolismo
+d) Todas las anteriores *
+
+¿Qué puede disminuir la absorción de medicamentos en los ancianos?
+a) Administración de antiácidos
+b) Insuficiencia cardiaca
+c) Enfermedades intestinales
+d) Todas las anteriores *
+
+¿Qué puede aumentar la concentración de medicamentos en los ancianos?
+a) Aumento del agua corporal
+b) Aumento de la masa muscular
+c) Disminución del tejido adiposo
+d) Ninguna de las anteriores *
+
+¿Qué puede disminuir el aclaramiento hepático de medicamentos en los ancianos?
+a) Aumento de la masa hepática
+b) Aumento del flujo hepático
+c) Reducción de la masa hepática
+d) Ninguna de las anteriores *
+
+¿Qué factor es el más importante en la acumulación de medicamentos en los ancianos?
+a) Aumento del aclaramiento renal de fármacos
+b) Disminución del aclaramiento renal de fármacos
+c) Aumento de la masa renal
+d) Ninguna de las anteriores *
+
+¿Qué puede aumentar la sensibilidad a los medicamentos en los ancianos?
+a) Disminución del número y afinidad de los receptores tisulares disponibles
+b) Aumento del número y afinidad de los receptores tisulares disponibles
+c) Ambas son correctas
+d) Ninguna de las anteriores *
+
+¿Cuál es la enfermedad yatrogénica más frecuente en ancianos?
+a) Reacciones Adversas Medicamentosas (RAM)
+b) Hipertensión
+c) Diabetes
+d) Ninguna de las anteriores *
+
+¿Cuál es el factor más importante que predispone a las RAM en los ancianos?
+a) La edad
+b) La polifarmacia
+c) La monofarmacia
+d) Ninguna de las anteriores *
+
+¿Cómo se clasifican las RAM?
+a) Primarias, secundarias y terciarias
+b) Alérgicas tipo A y tipo B
+c) Ambas son correctas *
+d) Ninguna de las anteriores
+
+¿Cuál es un factor relacionado con las RAM en los ancianos?
+a) Polimedicación
+b) Fragilidad
+c) Aclaramiento renal y hepático disminuido
+d) Todas las anteriores *
+
+¿Qué es una interacción farmacológica?
+a) Alteración de un fármaco como consecuencia de la acción de otro
+b) Combinación de dos fármacos para aumentar su efecto
+c) Reducción del efecto de un fármaco por la acción de otro
+d) Ninguna de las anteriores *
+
+¿Cuáles son las consecuencias adversas de la polifarmacia en los ancianos?
+a) RAM
+b) Interacciones
+c) Incumplimiento terapéutico
+d) Todas las anteriores *
+
+¿Cómo se considera la polifarmacia en los ancianos?
+a) Sin riesgo hasta 4 medicamentos
+b) Polifarmacia instaurada a partir de 5 medicamentos
+c) Ambas son correctas *
+d) Ninguna de las anteriores
+
+¿Qué es la iatrogenia en los ancianos?
+a) Reacciones adversas producidas como consecuencia del uso de medicamentos o de un determinado tratamiento médico
+b) La aparición de un síntoma nuevo en los mayores
+c) Ambas son correctas *
+d) Ninguna de las anteriores
+
+¿Qué es la adherencia al tratamiento?
+a) Grado en que la conducta del paciente coincide con las recomendaciones sanitarias
+b) Grado en que el paciente sigue las instrucciones del médico
+c) Ambas son correctas *
+d) Ninguna de las anteriores
+
+¿Qué puede disminuir la adherencia al tratamiento en los ancianos?
+a) Mayor complejidad del tratamiento
+b) Menos medicamentos
+c) Ambas son correctas
+d) Ninguna de las anteriores *
+
+¿Qué implica la optimización farmacológica en los ancianos?
+a) Revisión periódica de la medicación
+b) Suspender medicación no justificable
+c) Considerar tratamientos no farmacológicos
+d) Todas las anteriores *
+
+¿Qué se debe considerar en la optimización farmacológica en los ancianos?
+a) Que nuevos síntomas pueden ser por causas yatrogénicas
+b) Considerar alternativas inocuas
+c) Reducir y usar dosis mínimas eficaces
+d) Todas las anteriores *
+
+¿Qué norma favorece la adherencia al tratamiento en los ancianos?
+a) Promover la comprensión del tratamiento
+b) Actitud de alerta ante reacciones adversas
+c) Simplificar el régimen terapéutico
+d) Todas las anteriores *
+
+¿Por qué los ancianos no se incluyen comúnmente en los ensayos clínicos?
+a) Porque los ancianos no están interesados en participar
+b) Porque los resultados no son aplicables a los ancianos
+c) Porque no se mide lo que importa al anciano *
+d) Porque los ancianos son demasiado frágiles para los ensayos
+
+¿Qué puede causar edema intestinal en los ancianos, afectando la absorción de medicamentos?
+a) Uso de antiácidos
+b) Insuficiencia cardiaca *
+c) Enfermedades intestinales
+d) Todas las anteriores
+
+¿Cómo afecta el aumento del tejido adiposo a la distribución de medicamentos en los ancianos?
+a) Aumenta la concentración de medicamentos
+b) Disminuye la concentración de medicamentos
+c) Prolonga el efecto de los medicamentos *
+d) No tiene efecto en la distribución de medicamentos
+
+¿Cómo afecta la disminución del aclaramiento hepático a la farmacocinética en los ancianos?
+a) Aumenta la concentración de medicamentos
+b) Disminuye la concentración de medicamentos
+c) Reduce la depuración de fármacos *
+d) No tiene efecto en la farmacocinética
+
+¿Qué puede causar una mayor sensibilidad a los opiáceos en los ancianos?
+a) Aumento del número y afinidad de los receptores tisulares disponibles
+b) Disminución del número y afinidad de los receptores tisulares disponibles *
+c) Ambas son correctas
+d) Ninguna de las anteriores
+
+¿Qué es una Reacción Adversa Medicamentosa (RAM) según la OMS?
+a) Cualquier respuesta nociva o no intencionada a un fármaco a las dosis normalmente empleadas para profilaxis, diagnóstico o tratamiento de una enfermedad *
+b) Cualquier respuesta positiva a un fármaco a las dosis normalmente empleadas para profilaxis, diagnóstico o tratamiento de una enfermedad
+c) Cualquier respuesta emocional a un fármaco a las dosis normalmente empleadas para profilaxis, diagnóstico o tratamiento de una enfermedad
+d) Cualquier respuesta inesperada a un fármaco a las dosis normalmente empleadas para profilaxis, diagnóstico o tratamiento de una enfermedad
+
+¿Cuál es un factor que puede predisponer a los ancianos a las RAM?
+a) La edad
+b) La polifarmacia *
+c) La monofarmacia
+d) Ninguna de las anteriores
+
+¿Qué es una interacción farmacológica?
+a) Combinación de dos fármacos para aumentar su efecto
+b) Reducción del efecto de un fármaco por la acción de otro
+c) Alteración de un fármaco como consecuencia de la acción de otro *
+d) Ninguna de las anteriores
+
+¿Cuál de las siguientes es una consecuencia adversa de la polifarmacia en los ancianos?
+a) Mejora de la calidad de vida
+b) Aumento de la adherencia al tratamiento
+c) Disminución del deterioro funcional
+d) Aumento de las reacciones adversas a medicamentos (RAM) *
+
+¿Cómo se considera la polifarmacia en los ancianos?
+a) Sin riesgo hasta 4 medicamentos
+b) Polifarmacia instaurada a partir de 5 medicamentos *
+c) Ambas son correctas
+d) Ninguna de las anteriores
+
+¿Qué es la iatrogenia en los ancianos?
+a) Mejora de la salud debido al uso de medicamentos
+b) Reacciones adversas producidas como consecuencia del uso de medicamentos o de un determinado tratamiento médico *
+c) La aparición de un síntoma nuevo en los mayores debido a la edad
+d) Ninguna de las anteriores
+
+¿Qué es la adherencia al tratamiento?
+a) Grado en que la conducta del paciente coincide con las recomendaciones sanitarias *
+b) Grado en que el paciente sigue las instrucciones del médico
+c) Ambas son correctas
+d) Ninguna de las anteriores
+
+¿Qué puede disminuir la adherencia al tratamiento en los ancianos?
+a) Mayor complejidad del tratamiento *
+b) Menos medicamentos
+c) Ambas son correctas
+d) Ninguna de las anteriores
+
+¿Qué implica la optimización farmacológica en los ancianos?
+a) Aumentar la cantidad de medicamentos
+b) Suspender medicación no justificable *
+c) Considerar tratamientos farmacológicos únicamente
+d) Todas las anteriores
+
+¿Qué se debe considerar en la optimización farmacológica en los ancianos?
+a) Que nuevos síntomas pueden ser por causas yatrogénicas *
+b) Considerar alternativas dañinas
+c) Aumentar y usar dosis máximas eficaces
+d) Todas las anteriores
+
+¿Qué norma favorece la adherencia al tratamiento en los ancianos?
+a) Complicar el régimen terapéutico
+b) Actitud de alerta ante reacciones adversas *
+c) Aumentar la cantidad de medicamentos
+d) Todas las anteriores
+
+¿Qué puede causar edema intestinal en los ancianos, afectando la absorción de medicamentos?
+a) Uso de antiácidos
+b) Insuficiencia cardiaca *
+c) Enfermedades intestinales
+d) Todas las anteriores
+
+¿Cómo afecta el aumento del tejido adiposo a la distribución de medicamentos en los ancianos?
+a) Aumenta la concentración de medicamentos
+b) Disminuye la concentración de medicamentos
+c) Prolonga el efecto de los medicamentos *
+d) No tiene efecto en la distribución de medicamentos
+
+¿Cómo afecta la disminución del aclaramiento hepático a la farmacocinética en los ancianos?
+a) Aumenta la concentración de medicamentos
+b) Disminuye la concentración de medicamentos
+c) Reduce la depuración de fármacos *
+d) No tiene efecto en la farmacocinética
+
+¿Qué puede causar una mayor sensibilidad a los opiáceos en los ancianos?
+a) Aumento del número y afinidad de los receptores tisulares disponibles
+b) Disminución del número y afinidad de los receptores tisulares disponibles *
+c) Ambas son correctas
+d) Ninguna de las anteriores
