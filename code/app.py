@@ -1,5 +1,8 @@
 from flask import Flask, render_template, request, redirect, url_for
 import random
+import os
+import re
+
 
 app = Flask(__name__)
 questions = []
@@ -7,12 +10,23 @@ index = 0
 score = 0
 total_attempts = 0
 correct_answer = None
-subjects = {
-    "anciano": ["tema2", "tema3","tema4","tema5","tema6"],  
-    "joven": ["tema1", "tema2"],
-    "adulto": ["tema1", "tema2", "tema3"],
-    "etica": ["tema1", "tema2"]
-}
+
+def load_subjects():
+    subjects = {}
+    base_path = "asignaturas"
+    for subject in os.listdir(base_path):
+        if os.path.isdir(os.path.join(base_path, subject)):  # check if it's a folder
+            subjects[subject] = []
+            theme_files = os.listdir(os.path.join(base_path, subject))
+            theme_files = sorted(theme_files, key=lambda x: int(re.search(r'\d+', x).group()))  # sort by theme number
+            for theme_file in theme_files:
+                if theme_file.endswith('.txt'):  # we only want text files
+                    theme = theme_file[:-4]  # remove '.txt' extension
+                    subjects[subject].append(theme)
+    return subjects
+
+subjects = load_subjects()
+
 
 def load_questions(subject, theme):
     global questions
